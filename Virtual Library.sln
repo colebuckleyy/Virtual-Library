@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Virtual Library", "Virtual Library\Virtual Library.vcxproj", "{66FF96C4-6551-4EEA-BE1E-E553A258B80F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FF96C4-6551-4EEA-BE1E-E553A258B80F}.Debug|x64.ActiveCfg = Debug|x64
+		{66FF96C4-6551-4EEA-BE1E-E553A258B80F}.Debug|x64.Build.0 = Debug|x64
+		{66FF96C4-6551-4EEA-BE1E-E553A258B80F}.Debug|x86.ActiveCfg = Debug|Win32
+		{66FF96C4-6551-4EEA-BE1E-E553A258B80F}.Debug|x86.Build.0 = Debug|Win32
+		{66FF96C4-6551-4EEA-BE1E-E553A258B80F}.Release|x64.ActiveCfg = Release|x64
+		{66FF96C4-6551-4EEA-BE1E-E553A258B80F}.Release|x64.Build.0 = Release|x64
+		{66FF96C4-6551-4EEA-BE1E-E553A258B80F}.Release|x86.ActiveCfg = Release|Win32
+		{66FF96C4-6551-4EEA-BE1E-E553A258B80F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14ED6D04-2767-429A-8A5F-02B8DC6D6812}
+	EndGlobalSection
+EndGlobal
